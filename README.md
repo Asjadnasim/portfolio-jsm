@@ -9,3 +9,7 @@ npm i tailwindcss-animate
 Step 2: npm i next-themes for change theme to dark
 
 Step 3: npm i react-icons for different icons
+
+Bento Grid
+Grid component from acertinity
+npm i --save-dev @types/react-lottie
