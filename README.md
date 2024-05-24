@@ -17,3 +17,9 @@ npm i --save-dev @types/react-lottie
 
 Recent Projects
 3D animated pin from aceternity Ui and fully function navbar
+
+Testimonials
+Infinite moving cards from aceternity ui
+
+Work Experience
+Moving Border from aceternity Ui
