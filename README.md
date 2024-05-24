@@ -23,3 +23,6 @@ Infinite moving cards from aceternity ui
 
 Work Experience
 Moving Border from aceternity Ui
+
+My Approach
+Canvas reveal Effect
